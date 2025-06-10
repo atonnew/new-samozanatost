@@ -1,2 +1,2 @@
 # new-samozanatost
-new-samozanatost
+Попытка разместить на хостинге
